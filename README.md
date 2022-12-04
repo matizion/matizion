@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matizion
+- 👋 Hi, I’m Matías
 - 👀 I’m interested in learning all I can about DeFi and crypto.
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything I can 
