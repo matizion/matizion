@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi mi nombre es Matías, soy licenciado en administración de empresas actualmente me estoy culminando mi MBA.<br>👀 Me interesa aprender Python aplicado a finanzas<br> 📫 How to reach me matizion@gmail.com
+👋 Hi mi nombre es Matías, soy licenciado en administración de empresas actualmente estoy culminando mi MBA en la UNCuyo.<br>👀 Me interesa aprender Python aplicado a finanzas<br> 📫 How to reach me matizion@gmail.com
 
 
 ## 🌐 Socials:
